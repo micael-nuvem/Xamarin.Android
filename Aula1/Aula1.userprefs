@@ -1,17 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio1\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio2\MainActivity.cs">
     <Files>
-      <File FileName="Exercicio1\MainActivity.cs" Line="21" Column="39" />
+      <File FileName="Exercicio2\MainActivity.cs" Line="22" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Exercicio1" expanded="True">
+          <Node name="Exercicio2" expanded="True" selected="True">
             <Node name="Resources" expanded="True">
               <Node name="layout" expanded="True" />
             </Node>
-            <Node name="MainActivity.cs" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -22,4 +21,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Exercicio1 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+  <MonoDevelop.Ide.ItemProperties.Exercicio2 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
 </Properties>

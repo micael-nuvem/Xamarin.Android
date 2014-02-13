@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{56051E0F-A1EA-466E-ADA6-B662499F373E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{EBF10766-3B68-433A-AF0C-CB4154895DB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,8 +15,12 @@ Global
 		{56051E0F-A1EA-466E-ADA6-B662499F373E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56051E0F-A1EA-466E-ADA6-B662499F373E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56051E0F-A1EA-466E-ADA6-B662499F373E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF10766-3B68-433A-AF0C-CB4154895DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF10766-3B68-433A-AF0C-CB4154895DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF10766-3B68-433A-AF0C-CB4154895DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF10766-3B68-433A-AF0C-CB4154895DB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Exercicio1\Exercicio1.csproj
+		StartupItem = Exercicio2\Exercicio2.csproj
 	EndGlobalSection
 EndGlobal
