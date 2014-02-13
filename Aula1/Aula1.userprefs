@@ -1,27 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio3\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio4\ImageAdapter.cs">
     <Files>
-      <File FileName="Exercicio3\MainActivity.cs" Line="29" Column="1" />
+      <File FileName="Exercicio4\MainActivity.cs" Line="29" Column="4" />
+      <File FileName="Exercicio4\ImageAdapter.cs" Line="40" Column="1" />
+      <File FileName="Exercicio4\Resources\layout\Main.axml" Line="12" Column="3" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Exercicio3" expanded="True">
-            <Node name="Resources" expanded="True">
-              <Node name="layout" expanded="True" />
-            </Node>
-            <Node name="MainActivity.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Exercicio1 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
   <MonoDevelop.Ide.ItemProperties.Exercicio2 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
   <MonoDevelop.Ide.ItemProperties.Exercicio3 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+  <MonoDevelop.Ide.ItemProperties.Exercicio4 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.Exercicio1 MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
 </Properties>
